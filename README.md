@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yentingn
-- 👀 I’m interested in watching videos and listening to music.
-- 🌱 I’m currently learning AI, data analytics, graphic design, and others.
-- 💞️ I’m looking to collaborate on any interesting projects.
+- 👀 I’m interested in ...
+- 🌱 I’m currently ...
+- 💞️ I’m looking to ...
 
 <!---
 yentingn/yentingn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
